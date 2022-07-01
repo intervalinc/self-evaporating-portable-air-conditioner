@@ -9,7 +9,7 @@ img {width:auto;max-width:100%;height:auto}
 #main p {font-size:1em;text-align:justify;line-height:1.5em}
 #main ul li {line-height:1.5em}
 #main ol li {line-height:1.5em}
-#header {background:#fff url('header.jpg') top left no-repeat;height:80px;width:100%;border-bottom:#ccc 1px solid;margin:0;padding:0}
+#header {background:#fff url('img/header.jpg') top left no-repeat;height:80px;width:100%;border-bottom:#ccc 1px solid;margin:0;padding:0}
 @media screen and (max-width:800px) {#nav ul li {display:block;text-align:right;line-height:1.8em}}
 @media screen and (min-width:801px) {#nav ul li {display:inline}}
 #nav ul {margin:6px 0 16px;padding:0}
