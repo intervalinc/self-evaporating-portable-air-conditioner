@@ -1,0 +1,22 @@
+/* Stylesheet URI: https:/intervalinc.github.io/self-evaporating-portable-air-conditioner/ */
+body {font-size:16px;font-family:Arial,Sans-Serif}
+img {width:auto;max-width:100%;height:auto} 
+.alignright {float:right;padding:6px 0 6px 10px}
+.alignleft {float:left;padding:6px 10px 6px 0}
+.aligncenter {display:block;text-align:center;margin:0 auto;padding:0.2em}
+.smalltext {font-size:0.86em}
+#main {width:94%;margin:0 auto;padding:0}
+#main p {font-size:1em;text-align:justify;line-height:1.5em}
+#main ul li {line-height:1.5em}
+#main ol li {line-height:1.5em}
+#header {background:#fff url('header.jpg') top left no-repeat;height:80px;width:100%;border-bottom:#ccc 1px solid;margin:0;padding:0}
+@media screen and (max-width:800px) {#nav ul li {display:block;text-align:right;line-height:1.8em}}
+@media screen and (min-width:801px) {#nav ul li {display:inline}}
+#nav ul {margin:6px 0 16px;padding:0}
+#nav ul li {list-style-type:none;margin:0 0 2px;padding:0 5px}
+@media screen and (max-width:800px) {#foot ul li {font-size:1em;line-height:1.8em;}}
+@media screen and (min-width:801px) {#foot ul li {font-size:0.9em;line-height:1.6em;}}
+#foot {background:#fff;height:auto;width:100%;border-top:#ccc 1px solid;margin:0 auto;padding:4px 10px}
+#foot ul {list-style:none;text-align:left;margin:0 auto;padding:6px}
+#foot ul li,#foot ul li a {list-style-type:none;display:block;margin:0 0 2px;padding:0 5px}
+#foot ul li a:hover {color:#cc0000;text-decoration:underline}
